@@ -1,0 +1,11 @@
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\bin\Debug\net6.0\Vertex.deps.json
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\bin\Debug\net6.0\Vertex.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\bin\Debug\net6.0\Vertex.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.AssemblyInfoInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.AssemblyInfo.cs
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.csproj.CoreCompileInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\refint\Vertex.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\Vertex.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\Vertex\obj\Debug\net6.0\ref\Vertex.dll

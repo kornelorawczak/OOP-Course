@@ -1,0 +1,15 @@
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\bin\Debug\net6.0\ListGraph.deps.json
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\bin\Debug\net6.0\ListGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\bin\Debug\net6.0\ListGraph.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\bin\Debug\net6.0\IGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\bin\Debug\net6.0\IGraph.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.csproj.AssemblyReference.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.AssemblyInfoInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.AssemblyInfo.cs
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.csproj.CoreCompileInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.csproj.CopyComplete
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\refint\ListGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ListGraph.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\ListGraph\obj\Debug\net6.0\ref\ListGraph.dll

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program.csproj", "{CCF05F79-7195-42D5-9922-B5F4BA0A9FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowaFibonacciego", "..\SlowaFibonacciego\SlowaFibonacciego.csproj", "{B92FD2DA-491F-4E2D-B0A3-2B7FD0FA3B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertex", "..\Vertex\Vertex.csproj", "{29A00F9A-90F5-493D-BA0F-D869B964453D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGraph", "..\ListGraph\ListGraph.csproj", "{CC7306A3-82F9-451A-BA9E-BC54BF295305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGraph", "..\IGraph\IGraph.csproj", "{EEC8B3CE-0324-4AC1-8DA2-C1FEFD4B8B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixGraph", "..\MatrixGraph\MatrixGraph.csproj", "{8D07FB55-997E-4576-B46D-69846A312E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphOperations", "..\GraphOperations\GraphOperations.csproj", "{A5A03C70-FA60-4669-9D89-1313968DF2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF05F79-7195-42D5-9922-B5F4BA0A9FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF05F79-7195-42D5-9922-B5F4BA0A9FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF05F79-7195-42D5-9922-B5F4BA0A9FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF05F79-7195-42D5-9922-B5F4BA0A9FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92FD2DA-491F-4E2D-B0A3-2B7FD0FA3B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92FD2DA-491F-4E2D-B0A3-2B7FD0FA3B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92FD2DA-491F-4E2D-B0A3-2B7FD0FA3B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92FD2DA-491F-4E2D-B0A3-2B7FD0FA3B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A00F9A-90F5-493D-BA0F-D869B964453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A00F9A-90F5-493D-BA0F-D869B964453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A00F9A-90F5-493D-BA0F-D869B964453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A00F9A-90F5-493D-BA0F-D869B964453D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7306A3-82F9-451A-BA9E-BC54BF295305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7306A3-82F9-451A-BA9E-BC54BF295305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7306A3-82F9-451A-BA9E-BC54BF295305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7306A3-82F9-451A-BA9E-BC54BF295305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC8B3CE-0324-4AC1-8DA2-C1FEFD4B8B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC8B3CE-0324-4AC1-8DA2-C1FEFD4B8B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC8B3CE-0324-4AC1-8DA2-C1FEFD4B8B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC8B3CE-0324-4AC1-8DA2-C1FEFD4B8B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D07FB55-997E-4576-B46D-69846A312E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D07FB55-997E-4576-B46D-69846A312E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D07FB55-997E-4576-B46D-69846A312E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D07FB55-997E-4576-B46D-69846A312E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A03C70-FA60-4669-9D89-1313968DF2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A03C70-FA60-4669-9D89-1313968DF2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A03C70-FA60-4669-9D89-1313968DF2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A03C70-FA60-4669-9D89-1313968DF2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {952248C0-7075-455E-8AFD-3CA55A3B4079}
+	EndGlobalSection
+EndGlobal

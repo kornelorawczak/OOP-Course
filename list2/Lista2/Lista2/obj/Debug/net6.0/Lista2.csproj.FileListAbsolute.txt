@@ -1,0 +1,14 @@
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\bin\Debug\net6.0\Lista2.exe
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\bin\Debug\net6.0\Lista2.deps.json
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\bin\Debug\net6.0\Lista2.runtimeconfig.json
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\bin\Debug\net6.0\Lista2.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\bin\Debug\net6.0\Lista2.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.AssemblyInfoInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.AssemblyInfo.cs
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.csproj.CoreCompileInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\refint\Lista2.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\Lista2.genruntimeconfig.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista2\Lista2\Lista2\obj\Debug\net6.0\ref\Lista2.dll

@@ -1,0 +1,11 @@
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\bin\Debug\net6.0\IGraph.deps.json
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\bin\Debug\net6.0\IGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\bin\Debug\net6.0\IGraph.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.AssemblyInfoInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.AssemblyInfo.cs
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.csproj.CoreCompileInputs.cache
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\refint\IGraph.dll
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\IGraph.pdb
+D:\studia uwr\sem2\programowanie_obiektowe\lista4\IGraph\obj\Debug\net6.0\ref\IGraph.dll

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="IGraph">
+      <HintPath>..\IGraph\bin\Debug\net6.0\IGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="Vertex">
+      <HintPath>..\Vertex\bin\Debug\net6.0\Vertex.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
